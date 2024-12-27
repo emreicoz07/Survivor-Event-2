@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Home",
+    "races": "Races",
+    "info": "Info Center",
+    "media": "Media",
+    "about": "About",
+    "results": "Results",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "Survivor Course 2024",
+    "slogan": "Push Your Limits, Become a Legend!",
+    "register": "Register Now"
+  },
+  "courses": {
+    "long": "Long Course",
+    "short": "Short Course",
+    "kids": "Kids Course",
+    "adaptive": "Adaptive Course"
+  },
+  "footer": {
+    "description": "Turkey's most challenging obstacle course",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  }
+}

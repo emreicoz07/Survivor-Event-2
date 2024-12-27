@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "home": "Anasayfa",
+    "races": "Yarışlar",
+    "info": "Bilgi Merkezi",
+    "media": "Medya",
+    "about": "Hakkında",
+    "results": "Sonuçlar",
+    "login": "Giriş Yap"
+  },
+  "hero": {
+    "title": "Survivor Parkur 2024",
+    "slogan": "Kendi Limitlerini Zorla, Efsane Ol!",
+    "register": "Hemen Kayıt Ol"
+  },
+  "courses": {
+    "long": "Uzun Parkur",
+    "short": "Kısa Parkur",
+    "kids": "Çocuk Parkuru",
+    "adaptive": "Engelli Parkuru"
+  },
+  "footer": {
+    "description": "Türkiye'nin en zorlu parkur yarışı",
+    "quickLinks": "Hızlı Bağlantılar",
+    "contact": "İletişim",
+    "followUs": "Bizi Takip Edin",
+    "rights": "Tüm hakları saklıdır."
+  }
+}
